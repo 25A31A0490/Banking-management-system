@@ -1,0 +1,47 @@
+Algorithm for Banking Management System:-
+
+Step 1: Start the program
+
+Step 2: Display the main menu
+
+Create Account
+Deposit Money
+Withdraw Money
+Check Balance
+Exit
+
+Step 3: Read the user's choice
+
+Step 4: Perform the selected operation
+
+Case 1: Create Account
+Enter account number.
+Enter account holder name.
+Initialize balance to 0.
+Store account details.
+Display "Account Created Successfully".
+Case 2: Deposit Money
+Enter account number.
+Search for the account.
+Enter deposit amount.
+Add the amount to the current balance.
+Display updated balance.
+Case 3: Withdraw Money
+Enter account number.
+Search for the account.
+Enter withdrawal amount.
+Check if balance ≥ withdrawal amount.
+If yes, subtract amount from balance.
+If no, display "Insufficient Balance".
+Display updated balance.
+Case 4: Check Balance
+Enter account number.
+Search for the account.
+Display account details and current balance.
+Case 5: Exit
+Display "Thank You".
+Terminate the program.
+
+Step 5: If the choice is not Exit, return to Step 2.
+
+Step 6: Stop the program.
